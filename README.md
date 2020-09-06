@@ -1,2 +1,2 @@
-# WTAS4
-Data fetched from JSON file using PHP
+# assignment 4 web technology
+ data class
